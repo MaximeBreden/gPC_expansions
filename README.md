@@ -1,4 +1,4 @@
-This repository contains the Matlab code used for the paper "A posteriori validation of generalized polynomial chaos expansions" by M. Breden.
+This repository contains the Matlab code used for the paper ["A posteriori validation of generalized polynomial chaos expansions"](https://arxiv.org/abs/2203.02404) by M. Breden.
 
 In order to reproduce the computer-assisted parts of the proofs discussed in the paper, download the whole repository and run
 * script_BasicExample.m for Proposition 2.16, 
